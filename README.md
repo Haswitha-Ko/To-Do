@@ -16,7 +16,7 @@ The application automatically saves tasks locally, ensuring that users can acces
 
 **Tech Stack**
 
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Libraries Used: Bootstrap for responsive design
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Libraries Used: Bootstrap for responsive design
 
 Check out its working [here](https://todohk.ccbp.tech/) .
